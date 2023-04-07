@@ -22,6 +22,11 @@ cd documentation
 npm install
 ```
 
+### Tailwind initial build
+
+```shell
+npx tailwindcss -i src/assets/css/index.css -c tailwind.config.js -o _site/index.css --minify
+```
 
 ### Development
 
