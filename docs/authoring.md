@@ -9,6 +9,7 @@ order: 5
 In order to have a new page, create new markdown files in /docs.
 
 Documents are written in markdown, following [CommonMark spec](http://spec.commonmark.org/) and must have a `.md` extension.
+
 Simply add/modify files and it will appear in your documentation menu bar.
 
 1. Create a new file
