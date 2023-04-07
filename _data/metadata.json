@@ -8,7 +8,7 @@
   "gitEdit": "edit",
   "gitBranch": "main",
   "headerButtonContactUs": false,
-  "quickStartIntro": "A documentation site powered by eleventy and Tailwind CSS",
+  "quickStartIntro": "A documentation site template for your next project",
   "quickStartShowVideoTour": true,
   "heroTitle": "CloudReader.app",
   "heroDescription": "A modern workflow to publish your documentation",
@@ -26,6 +26,6 @@
   "cardDesc3": "How to create your own content?",
   "cardLink3": "./docs/authoring/",
   "cardHead4": "Credits",
-  "cardDesc4": "Made with ❤ with...",
+  "cardDesc4": "Made with ❤ with eleventy and Tailwind CSS",
   "cardLink4": "./docs/credits/"
 }
