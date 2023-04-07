@@ -37,7 +37,7 @@ https://tailwindcss.com/docs/installation
 1. Clone this repository
 
 ```shell
-git clone https://github.com/per1/11ty documentation
+git clone https://github.com/cloudreaderapp/cloudreaderdoc.git documentation
 ```
 
 2. Go into this new folder
@@ -51,7 +51,11 @@ cd documentation
 ```shell
 npm install
 ```
+4. Tailwind initial build
 
+```shell
+npx tailwindcss -i src/assets/css/index.css -c tailwind.config.js -o _site/index.css --minify
+```
 
 ### Development
 
