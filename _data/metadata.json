@@ -4,7 +4,7 @@
   "supportEmail": "dev@cloudreader.app",
   "titleMenu": "CloudReader",
   "search": false,
-  "gitRepo": "https://github.com/cloudreaderapp/cloudreaderdoc.git",
+  "gitRepo": "https://github.com/cloudreaderapp/cloudreaderdoc",
   "gitEdit": "edit",
   "gitBranch": "main",
   "headerButtonContactUs": false,
