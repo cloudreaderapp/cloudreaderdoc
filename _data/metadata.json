@@ -21,7 +21,7 @@
   "cardLink1": "./docs/Netlify",
   "cardHead2": "Configuration",
   "cardDesc2": "How to customize your site?",
-  "cardLink2": ".docs/configuration/",
+  "cardLink2": "./docs/configuration/",
   "cardHead3": "Authoring",
   "cardDesc3": "How to create your own content?",
   "cardLink3": "./docs/authoring/",
