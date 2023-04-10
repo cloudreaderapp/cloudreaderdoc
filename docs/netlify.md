@@ -13,6 +13,12 @@ This will offer you off the shelf :
 - integration with a shared back-end on github to ease collaboration
 - capabilities to edit/modify a page from the documentation site with the 'Edit this Page' button.
 
+Either use the deploy button or step by step guide.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cloudreaderapp/cloudreaderdoc)
+
+### Step by Step
+
 To proceed :
 
 - Create an new account Github account if required on [Github Sign up](https://github.com/signup)
