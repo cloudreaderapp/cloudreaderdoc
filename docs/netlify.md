@@ -9,8 +9,8 @@ order: 2
 The easiest to start is to work on hosted site based on platform like Netlify or Vercel.
 
 This will offer you off the shelf :
-- site publication automated after each modification
-- integration with a shared back-end on github.
+- site publication with automated update after each modification
+- integration with a shared back-end on github to ease collaboration
 - capabilities to edit/modify a page from the documentation site with the 'Edit this Page' button.
 
 To proceed :
